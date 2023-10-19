@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: webflux-demo
+  cloud:
+    config:
+      enabled: false
